@@ -1,6 +1,6 @@
 # Club Description
 
-There are no shortage of problems faced by humanity. We are all privileged to be living in the most peaceful and prosperous time in human history, but we are far from the equanimous paradise we seek. Pain, suffering, trauma, and plight still surge for many. This club is dedicated to bringing together the cross-functional minds and talents on this platform to dissect problems and put forth proposed solutions forged by critical analysis and rigorous, yet civil discourse. The proposed solutions are intended to be open-source - available for fair advancement and implementation with a singular goal - improve lives.  
+There are no shortage of problems faced by humanity. We are all privileged to be living in the most peaceful and prosperous time in human history, but we are far from the equanimous paradise we seek. Pain, suffering, trauma, and plight still surge for many. This club is dedicated to bringing together the cross-functional minds and talents on the [Clubhouse platform](https://joinclubhouse.com) to dissect problems and put forth proposed solutions forged by critical analysis and rigorous, yet civil discourse. The proposed solutions are intended to be open-source - available for fair advancement and implementation with a singular goal - improve lives.
 
 # Goal
 
@@ -17,4 +17,7 @@ While commercial use is allowed, no patents shall be supported for any derivativ
 
 # Title Explanation
 
-Originally I named the club 'Problems Grinder', but Equanimity quickly became a key theme as I began writing the club description. All attendees will need to seek equanimity, and the process will grind and cause failure to that end, so I chose to change it to 'Equanimity Grinder'. 
+Originally I named the club 'Problems Grinder', but Equanimity quickly became a key theme as I began writing the club description. All attendees will need to seek equanimity, and the process will grind and cause failure to that end, so I chose to change it to 'Equanimity Grinder'.
+
+# RFCs
+* [RFC 1 - Establish club to focus on improving human problems](https://equanimitygrinder.club/rfc/1)
