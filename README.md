@@ -21,3 +21,4 @@ Originally I named the club 'Problems Grinder', but Equanimity quickly became a 
 
 # RFCs
 * [RFC 1 - Establish club to focus on improving human problems](https://equanimitygrinder.club/rfc/1)
+* [RFC 2 - Blockchain Axiom Graphs](https://equanimitygrinder.club/rfc/2)
